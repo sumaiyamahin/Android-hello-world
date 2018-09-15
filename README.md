@@ -4,7 +4,7 @@
 The app displays a simple welcome message to the user, and gives the user the options to change the color of the text and the background, and modify the text that is displayed. If the user chooses not to enter any text, then a default text appears. Furthermore in the app when the user clicks the background, all of the settings switch to default.
 
 ### App Walk-though
-<img src="https://imgur.com/a/x1vt9Gh" width=200><br>
+<img src="https://imgur.com/Rm3Ma1o" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
